@@ -1,0 +1,24 @@
+/*
+0 * global selector
+100 # id selector
+10 . class selector
+
+@import incluir css externo
+@media regras condicionais
+@font-face fontes externas
+@keyframes animações
+
+*/
+
+h1 {
+    border: 1px solid;
+    margin: 20px;/*borda externa*/
+    padding: 60px;/*borda interna*/
+}
+
+.teste{
+    color: brown;
+}
+#teste{
+    color: cyan;
+}
