@@ -106,3 +106,4 @@ function Person(name) { //primeira letra maiuscula
 
 const iuri = new Person("iuri") //torna a função em contrutora com o new criando um novo objeto
 console.log(iuri)
+
