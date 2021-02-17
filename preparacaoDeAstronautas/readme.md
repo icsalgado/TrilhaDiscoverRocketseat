@@ -1,5 +1,5 @@
 <!--
-
+FORMULÁRIOS DE OUTRO PLANETA
 formulários devem ser simples e focados
 somente o necessário
 requisitos bem pensados
@@ -23,7 +23,7 @@ um form não deve ser criado dentro de outro por ocasionar erros de envio
     acessibilidade
 
     Atributos especiais
-        -disabled
+        -disabled   
             desabilita todos os elementos internos
             não precisa estar dentro do formulario
         -form
@@ -178,4 +178,18 @@ um form não deve ser criado dentro de outro por ocasionar erros de envio
     optgroup label=""
 
 
+
+
+<form>
+        <fieldset>
+            <legend>Contato</legend>
+            <label for="name">Nome</label>
+            <br><input id="name" type="text" name="name">
+            <br><label for="email">E-mail</label>
+            <br><input id="email" type="email" name="email">
+            <br><label for="message">Mensagem</label>
+            <br><textarea name="message" id="message" cols="50" rows="5"></textarea>
+            <br><button type="submit">Enviar</button>
+        </fieldset>
+</form>
 -->
