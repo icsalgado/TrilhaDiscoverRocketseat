@@ -162,5 +162,24 @@ input.onkeypress = function(event) {
     console.log(event.currentTarget.value)
 }
 
+<!-- <h1>title</h1>
+    <header class="classe">
+        <h1 id="blog-title">Meu blog</h1>
+    </header>
+
+    <h1 class="one">Elemento com classe</h1>
+    <input value="populado"> -->
+
+    <header>
+        <h1 onclick="print()">Olá Dev!</h1>
+    </header>
+
+    <input type="text">
+    
+
+
+
+    <script src="./script.js"></script>
+
 
 -->
