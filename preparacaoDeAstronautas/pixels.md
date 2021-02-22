@@ -39,6 +39,19 @@ Nem tudo são pixels em CSS
 -strings e identificadores
     " "
 
+-pseudo-classes
+    :peudo-class-name
+        :first-child
+        :nth-of-type()
+        :nth-child()
+
+-Açoes do usuario
+    :hover
+    :focus
+-Atributos
+    :disabled
+    :required
+
 
 
 -->
